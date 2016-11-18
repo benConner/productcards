@@ -6,7 +6,7 @@ body{
 	justify-content: space-between;
 }
 
-.flexbox{
+.color_tags{
 	width: 30%;
 	border: 1px solid lightblue;
 	margin: 10px;
@@ -45,7 +45,6 @@ h6{
 	font-weight: bold;
 	
 }
-
 li{
 	list-style: none;
 }
