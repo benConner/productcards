@@ -7,14 +7,45 @@ body{
 }
 
 .flexbox{
-	display: flex;
-	margin: 1%;
 	width: 30%;
-	border: 1px solid lightgrey;
-	justify-content: center;
-	flex-wrap: wrap;
+	border: 1px solid lightblue;
+	margin: 10px;
 }
 
 img{
-	width: 200Px;
+	display: flex;
+	width:200px;
+	height:200px;
+	margin: auto;
+	padding: 1%;
+}
+h4{
+	background-color:grey;
+	color: yellow;
+	padding-left: 3%
+}
+h2{
+	text-align: center;
+	border-bottom: 1px dotted lightblue;
+	margin: 10px 0;
+}
+p{
+	text-align: center;
+	padding: 1%; 
+}
+h6{
+	text-align: left;
+	margin-left: 0;
+}
+.pricing, .specs{
+	width: 100%;
+	margin-left: 0;  
+	text-align: left;
+	padding-left: 3%;
+	font-weight: bold;
+	
+}
+
+li{
+	list-style: none;
 }
