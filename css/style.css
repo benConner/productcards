@@ -1,0 +1,20 @@
+
+body{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	justify-content: space-between;
+}
+
+.flexbox{
+	display: flex;
+	margin: 1%;
+	width: 30%;
+	border: 1px solid lightgrey;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+img{
+	width: 200Px;
+}
